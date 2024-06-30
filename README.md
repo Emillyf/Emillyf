@@ -2,7 +2,8 @@
 - 👀 estou interressada em front-end
 - pronomes ela/dela
 - 19 anos
--atualmente aprendendo HTML
+-atualmente aprendendo 
+-HTML
 - css
 -javaScript❤
   <!---
