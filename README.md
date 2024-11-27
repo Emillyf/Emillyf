@@ -1,7 +1,7 @@
 - 👋 oii, eu sou @Emillyf
 - 👀 estou interressada em front-end
-- pronomes ela/dela
-- 19 anos
+- Ela/dela
+- 20 anos
 -atualmente aprendendo 
 - HTML
 - css
